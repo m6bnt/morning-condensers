@@ -11,6 +11,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: ProjetParis
+        username: morning-condensers
         password: tt7niOgq35(R^Qyp*kJd
         server-dir : public_html/
